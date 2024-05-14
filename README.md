@@ -22,7 +22,7 @@ To get started with the Currency Converter App, follow these steps:
 If you need help with the Currency Converter App, you can:
 - [Check the documentation for usage instructions and examples.]
 - [Open an issue on the GitHub repository if you encounter any bugs or have specific questions.]
-- [Reach out to the maintainer directly via email at maintainer@example.com.]
+- [Reach out to the maintainer directly via email at syama5824@example.com.]
 
 ## Who maintains and contributes to the project
 - Syama Talari ([@syama5824](https://github.com/syama5824))
